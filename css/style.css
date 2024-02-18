@@ -1,0 +1,13 @@
+a:link {
+    color: aqua;
+    text-decoration: none;
+}
+
+a:visited {
+    color: cadetblue;
+}
+
+a:active {
+    color: cadetblue;
+}
+
